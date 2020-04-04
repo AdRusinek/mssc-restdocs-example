@@ -1,2 +1,3 @@
-com\rusinek\msscbeerservice\web\controller\BeerControllerTest.class
-com\rusinek\msscbeerservice\MsscBeerServiceApplicationTests.class
+com\rusinek\msscrestdocsexample\web\controller\BeerControllerTest$ConstrainedFields.class
+com\rusinek\msscrestdocsexample\web\controller\BeerControllerTest.class
+com\rusinek\msscrestdocsexample\MsscBeerServiceApplicationTests.class
