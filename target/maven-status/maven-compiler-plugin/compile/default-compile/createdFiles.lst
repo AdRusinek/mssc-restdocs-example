@@ -1,0 +1,14 @@
+com\rusinek\msscbeerservice\MsscBeerServiceApplication.class
+com\rusinek\msscbeerservice\web\controller\BeerController.class
+com\rusinek\msscbeerservice\web\mappers\DateMapper.class
+com\rusinek\msscbeerservice\web\model\BeerDto.class
+com\rusinek\msscbeerservice\web\model\BeerStyleEnum.class
+com\rusinek\msscbeerservice\bootstrap\BeerLoader.class
+com\rusinek\msscbeerservice\web\controller\MvcExceptionHandler.class
+com\rusinek\msscbeerservice\web\mappers\BeerMapperImpl.class
+com\rusinek\msscbeerservice\domain\Beer.class
+com\rusinek\msscbeerservice\web\model\BeerPagedList.class
+com\rusinek\msscbeerservice\domain\Beer$BeerBuilder.class
+com\rusinek\msscbeerservice\repositories\BeerRepository.class
+com\rusinek\msscbeerservice\web\model\BeerDto$BeerDtoBuilder.class
+com\rusinek\msscbeerservice\web\mappers\BeerMapper.class
